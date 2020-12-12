@@ -1,0 +1,19 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_10fa1e7e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+.textstyle2 { text-align:left; }
+#container_6a66f0ab { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:448px; background-color:#FFFFFF; background-image: url(rc_images/lvs_1920x1080.jpg); background-position:top left; background-size:cover;  }
+#container_6a66f0ab_padding { margin: 10px; display: block;  }
+#container_73277115 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:94px; background:none;  }
+#container_73277115_padding { margin: 10px; display: block;  }
+#container_19edd504 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:91px; background:none;  }
+#container_19edd504_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:18pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-style:italic; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+@media only screen and (max-width: 360px)
+{
+		#container_19edd504 { width:100%;  }
+}
